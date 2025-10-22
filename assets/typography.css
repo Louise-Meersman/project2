@@ -1,0 +1,24 @@
+p{
+    margin-top: .5em;
+}
+h1{ 
+    font-size: 3em;
+    font-weight: extrabold;
+    color: darkolivegreen;
+}
+h2{ 
+    font-size: 1.5em;
+    font-weight: bold;
+    color:black
+}
+h3{
+    color:black;
+}
+hgroup{
+    color: floralwhite;
+}
+h4{
+    color: darkolivegreen;
+    
+}
+
